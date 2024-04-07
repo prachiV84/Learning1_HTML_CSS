@@ -1,0 +1,17 @@
+  
+ body{
+    background-color: black;
+    color: aliceblue;
+
+}
+.title h1{
+    text-align: center;
+}
+.questions h1{
+    background-color: blueviolet;
+    padding: 20px;
+}
+.questions h1:hover{
+    background-color: blueviolet;
+    padding: 20px;
+}
